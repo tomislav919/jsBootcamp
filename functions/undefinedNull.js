@@ -20,6 +20,6 @@ console.log(result)
 
 let age = 27
 
-age = undefined
+age = null
 
 console.log(age)
