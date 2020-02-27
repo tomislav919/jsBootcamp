@@ -16,3 +16,6 @@ todos.forEach(function(item, index){
 });
 
 // FOR loop
+for (let count = 0; count <= 2; count++){
+    console.log(count);
+}
